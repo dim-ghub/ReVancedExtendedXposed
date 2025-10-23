@@ -7,7 +7,7 @@
   <br>
 </div>
 
-**ReVanced LSPosed module by ChsBuffer.**  
+**Fork of ReVanced LSPosed module by ChsBuffer to included ReVanced Extended patches.**  
 >[!IMPORTANT]  
 > This is not an official ReVanced project, do not ask the ReVanced developers for help.
 
